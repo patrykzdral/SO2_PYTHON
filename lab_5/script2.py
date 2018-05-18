@@ -4,6 +4,7 @@ import sys
 directory_path = sys.argv[1]
 file_path = sys.argv[2]
 
+
 # filename.endswith(".old")
 def create_new_files():
     if not os.path.isfile(file_path):

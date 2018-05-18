@@ -34,5 +34,5 @@ def list_unique_files(path):
 
 list_unique_files(directory_path)
 for k, v in dict.items():
-    if (v == 1):
+    if v == 1:
         print(k)
