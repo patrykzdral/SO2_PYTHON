@@ -2,7 +2,7 @@ import subprocess
 
 print("HELLO")
 
-#output = subprocess.Popen(['python3', 'example.py', "TY KURWO","12"], stdout=subprocess.PIPE, shell=True)
+#output = subprocess.Popen(['python3', 'example.py', "hello","12"], stdout=subprocess.PIPE, shell=True)
 #list = output.communicate()
 #print(list)
 
